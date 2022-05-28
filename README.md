@@ -11,14 +11,9 @@ Create a custom webpage that showcases different UFO sightings around the world 
 ### Search for UFO sightings using one or more filters
 The user may enter the desired date, city, state, country, and/or shape of the UFO sighting by following the placeholder template. 
 
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
-    src="static/images/filter_example.jpg"
-    alt="Filter Example">
-</img>
+<div style="text-align: center;">
+![filter example](static/images/filter_example.jpg)
+</div>
 
 - In this example, the user can view all UFO sightings available in this dataset that are from the state of Texas by typing "tx" in the field and pressing 'Enter'.
 
