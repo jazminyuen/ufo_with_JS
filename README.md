@@ -16,7 +16,7 @@ The user may enter the desired date, city, state, country, and/or shape of the U
            margin-left: auto;
            margin-right: auto;
            width: 30%;"
-    src="ufo_with_JS/static/images/filter_example.jpg"
+    src="static/images/filter_example.jpg"
     alt="Filter Example">
 </img>
 
